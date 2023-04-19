@@ -1,1 +1,1 @@
-# KontrolVer
+# KontrolVer - это клон нашего репозитория
